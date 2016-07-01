@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Other on DJ IHaveAHat</title>
+    <link>http://dj.lynxpebbles.me/mixes/other/</link>
+    <description>Recent content in Other on DJ IHaveAHat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://dj.lynxpebbles.me/mixes/other/" rel="self" type="application/rss+xml" />
+    
+    <itunes:author>DJ IHaveAHat</itunes:author>
+    <itunes:owner>
+      <itunes:name>DJ IHaveAHat</itunes:name>
+      <itunes:email>dj@lynxpebbles.me</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Bringing you DJ sets across the entire spectrum of EDM</itunes:summary>
+    <itunes:explicit>No</itunes:explicit>
+    <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
+    <itunes:category text="Music" />
+    
+    
+      <item>
+        <title>Carnavalstyle Mix (17#XX)</title>
+        <link>http://dj.lynxpebbles.me/mixes/other/2017-02-24/</link>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/other/2017-02-24/</guid>
+        <description>&lt;![CDATA[<p>With the return of the yearly tradition of carnaval in the lower Netherlands, so returns the mix to go with it.</p>
+]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/other/2017-02-24/download" type="audio/mp3" length="2260" />
+        
+      </item>
+    
+      <item>
+        <title>Carnavalstyle Mix (2016)</title>
+        <link>http://dj.lynxpebbles.me/mixes/other/2016-02-07/</link>
+        <pubDate>Sun, 07 Feb 2016 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/other/2016-02-07/</guid>
+        <description>&lt;![CDATA[]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/other/2016-02-07/download" type="audio/mp3" length="1804" />
+        
+      </item>
+    
+      <item>
+        <title>Hardstyle Mix (2015-10-21)</title>
+        <link>http://dj.lynxpebbles.me/mixes/hardstyle/2015-10-21/</link>
+        <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/hardstyle/2015-10-21/</guid>
+        <description>&lt;![CDATA[]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/hardstyle/2015-10-21/download" type="audio/mp3" length="1248" />
+        
+      </item>
+    
+      <item>
+        <title>Furrave 3 Aftermix</title>
+        <link>http://dj.lynxpebbles.me/mixes/other/2014-11-07/furrave-3-aftermix/</link>
+        <pubDate>Fri, 07 Nov 2014 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/other/2014-11-07/furrave-3-aftermix/</guid>
+        <description>&lt;![CDATA[]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/other/2014-11-07/furrave-3-aftermix/download" type="audio/mp3" length="4245" />
+        
+      </item>
+    
+      <item>
+        <title>Furrave 3 (If It Had Been) Mix</title>
+        <link>http://dj.lynxpebbles.me/mixes/other/2013-12-26/furrave-3-if-it-had-been/</link>
+        <pubDate>Thu, 26 Dec 2013 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/other/2013-12-26/furrave-3-if-it-had-been/</guid>
+        <description>&lt;![CDATA[]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/other/2013-12-26/furrave-3-if-it-had-been/download" type="audio/mp3" length="2905" />
+        
+      </item>
+    
+  </channel>
+</rss>

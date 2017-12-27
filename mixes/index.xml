@@ -6,7 +6,7 @@
     <description>Recent content in Mixes on DJ IHaveAHat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://dj.lynxpebbles.me/mixes/" rel="self" type="application/rss+xml" />
     
     <itunes:author>DJ IHaveAHat</itunes:author>
@@ -19,6 +19,18 @@
     <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
     <itunes:category text="Music" />
     
+    
+      <item>
+        <title>Handsup Mix (17#50)</title>
+        <link>http://dj.lynxpebbles.me/mixes/handsup/17-50/</link>
+        <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/handsup/17-50/</guid>
+        <description>&lt;![CDATA[<p>Time for some uplifting melodies, with some handsup</p>
+]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/handsup/17-50/download" type="audio/mp3" length="2553" />
+        
+      </item>
     
       <item>
         <title>Raw Hardstyle Mix (17#49)</title>

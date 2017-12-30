@@ -6,7 +6,7 @@
     <description>Recent content in Mixes on DJ IHaveAHat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://dj.lynxpebbles.me/mixes/" rel="self" type="application/rss+xml" />
     
     <itunes:author>DJ IHaveAHat</itunes:author>
@@ -19,6 +19,18 @@
     <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
     <itunes:category text="Music" />
     
+    
+      <item>
+        <title>UK Hardcore Mix (17#51)</title>
+        <link>http://dj.lynxpebbles.me/mixes/uk-hardcore/17-51/</link>
+        <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/uk-hardcore/17-51/</guid>
+        <description>&lt;![CDATA[<p>Speeding things up but keeping &lsquo;em uplifting, let&rsquo;s head into an hour of UK Hardcore!</p>
+]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/uk-hardcore/17-51/download" type="audio/mp3" length="3357" />
+        
+      </item>
     
       <item>
         <title>Handsup Mix (17#50)</title>

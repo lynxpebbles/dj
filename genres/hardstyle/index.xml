@@ -6,7 +6,7 @@
     <description>Recent content in Hardstyle on DJ IHaveAHat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://dj.lynxpebbles.me/genres/hardstyle/" rel="self" type="application/rss+xml" />
     
     <itunes:author>DJ IHaveAHat</itunes:author>
@@ -19,6 +19,18 @@
     <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
     <itunes:category text="Music" />
     
+    
+      <item>
+        <title>Hardstyle Mix (17#52)</title>
+        <link>http://dj.lynxpebbles.me/mixes/hardstyle/17-52/</link>
+        <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/hardstyle/17-52/</guid>
+        <description>&lt;![CDATA[<p>Ending the year with some wonderful euphoric hardstyle vibes, focusing on my favourites, but with some new sounds as well, happy new year!</p>
+]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/hardstyle/17-52/download" type="audio/mp3" length="3633" />
+        
+      </item>
     
       <item>
         <title>Raw Hardstyle Mix (17#49)</title>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trance on DJ IHaveAHat</title>
     <link>http://dj.lynxpebbles.me/genres/trance/</link>
@@ -7,42 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://dj.lynxpebbles.me/genres/trance/" rel="self" type="application/rss+xml" />
     
-    <itunes:author>DJ IHaveAHat</itunes:author>
-    <itunes:owner>
-      <itunes:name>DJ IHaveAHat</itunes:name>
-      <itunes:email>dj@lynxpebbles.me</itunes:email>
-    </itunes:owner>
-    <itunes:summary>Bringing you DJ sets across the entire spectrum of EDM</itunes:summary>
-    <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
-    <itunes:category text="Music" />
+	<atom:link href="http://dj.lynxpebbles.me/genres/trance/index.xml" rel="self" type="application/rss+xml" />
     
     
-      <item>
-        <title>Trance Mix (17#07)</title>
-        <link>http://dj.lynxpebbles.me/mixes/trance/17-07/</link>
-        <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/mixes/trance/17-07/</guid>
-        <description>&lt;![CDATA[<p>It&rsquo;s not a common occurence, but we&rsquo;ve got another trance mix! Enjoy!</p>
-]]></description>
-        <enclosure url="https://dl.lynxpebbles.me/ihah/trance/17-07/download" type="audio/mp3" length="4002" />
-        
-      </item>
+    <item>
+      <title>Trance Mix (17#07)</title>
+      <link>http://dj.lynxpebbles.me/mixes/trance/17-07/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/mixes/trance/17-07/</guid>
+      <description>It&amp;rsquo;s not a common occurence, but we&amp;rsquo;ve got another trance mix! Enjoy!</description>
+    </item>
     
-      <item>
-        <title>Trance Mix (2016-05-21)</title>
-        <link>http://dj.lynxpebbles.me/mixes/trance/2016-05-21/</link>
-        <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/mixes/trance/2016-05-21/</guid>
-        <description>&lt;![CDATA[<p>And now for something completely different, Trance! Really enjoyed mixing this one, something different from the usual.</p>
-]]></description>
-        <enclosure url="https://dl.lynxpebbles.me/ihah/trance/2016-05-21/download" type="audio/mp3" length="4999" />
-        
-      </item>
+    <item>
+      <title>Trance Mix (2016-05-21)</title>
+      <link>http://dj.lynxpebbles.me/mixes/trance/2016-05-21/</link>
+      <pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/mixes/trance/2016-05-21/</guid>
+      <description>And now for something completely different, Trance! Really enjoyed mixing this one, something different from the usual.</description>
+    </item>
     
   </channel>
 </rss>

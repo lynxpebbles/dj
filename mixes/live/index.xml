@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Live on DJ IHaveAHat</title>
     <link>http://dj.lynxpebbles.me/mixes/live/</link>
@@ -7,62 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Oct 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://dj.lynxpebbles.me/mixes/live/" rel="self" type="application/rss+xml" />
     
-    <itunes:author>DJ IHaveAHat</itunes:author>
-    <itunes:owner>
-      <itunes:name>DJ IHaveAHat</itunes:name>
-      <itunes:email>dj@lynxpebbles.me</itunes:email>
-    </itunes:owner>
-    <itunes:summary>Bringing you DJ sets across the entire spectrum of EDM</itunes:summary>
-    <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
-    <itunes:category text="Music" />
+	<atom:link href="http://dj.lynxpebbles.me/mixes/live/index.xml" rel="self" type="application/rss+xml" />
     
     
-      <item>
-        <title>Live @ Furrave 2 (00:30-02:15)</title>
-        <link>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-0030-0215/</link>
-        <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-0030-0215/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="https://dl.lynxpebbles.me/ihah/live/2013-10-26/furrave-2-0030-0215/download" type="audio/mp3" length="6238" />
-        
-      </item>
+    <item>
+      <title>Live @ Furrave 2 (00:30-02:15)</title>
+      <link>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-0030-0215/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-0030-0215/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Live @ Furrave 2 (20:00-21:30)</title>
-        <link>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2000-2130/</link>
-        <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2000-2130/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="https://dl.lynxpebbles.me/ihah/live/2013-10-26/furrave-2-2000-2130/download" type="audio/mp3" length="5250" />
-        
-      </item>
+    <item>
+      <title>Live @ Furrave 2 (20:00-21:30)</title>
+      <link>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2000-2130/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2000-2130/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Live @ Furrave 2 (22:30-23:30)</title>
-        <link>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2230-2330/</link>
-        <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2230-2330/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="https://dl.lynxpebbles.me/ihah/live/2013-10-26/furrave-2-2230-2330/download" type="audio/mp3" length="4276" />
-        
-      </item>
+    <item>
+      <title>Live @ Furrave 2 (22:30-23:30)</title>
+      <link>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2230-2330/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/mixes/live/2013-10-26/furrave-2-2230-2330/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Live @ Furrave 1</title>
-        <link>http://dj.lynxpebbles.me/mixes/live/2013-03-23/furrave-1/</link>
-        <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/mixes/live/2013-03-23/furrave-1/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="https://dl.lynxpebbles.me/ihah/live/2013-03-23/furrave-1/download" type="audio/mp3" length="4256" />
-        
-      </item>
+    <item>
+      <title>Live @ Furrave 1</title>
+      <link>http://dj.lynxpebbles.me/mixes/live/2013-03-23/furrave-1/</link>
+      <pubDate>Sat, 23 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/mixes/live/2013-03-23/furrave-1/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

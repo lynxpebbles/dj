@@ -6,7 +6,7 @@
     <description>Recent content on DJ IHaveAHat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://dj.lynxpebbles.me/" rel="self" type="application/rss+xml" />
     
     <itunes:author>DJ IHaveAHat</itunes:author>
@@ -19,6 +19,18 @@
     <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
     <itunes:category text="Music" />
     
+    
+      <item>
+        <title>Hardstyle Mix (18#01)</title>
+        <link>http://dj.lynxpebbles.me/mixes/hardstyle/18-01/</link>
+        <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://dj.lynxpebbles.me/mixes/hardstyle/18-01/</guid>
+        <description>&lt;![CDATA[<p>Look who&rsquo;s still alive (spoiler: it&rsquo;s me). Felt the urge to mix something again, so here it is!</p>
+]]></description>
+        <enclosure url="https://dl.lynxpebbles.me/ihah/hardstyle/18-01/download" type="audio/mp3" length="2076" />
+        
+      </item>
     
       <item>
         <title>Hardstyle Mix (17#52)</title>

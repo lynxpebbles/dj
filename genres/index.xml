@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genres on DJ IHaveAHat</title>
     <link>http://dj.lynxpebbles.me/genres/</link>
@@ -7,106 +7,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://dj.lynxpebbles.me/genres/" rel="self" type="application/rss+xml" />
     
-    <itunes:author>DJ IHaveAHat</itunes:author>
-    <itunes:owner>
-      <itunes:name>DJ IHaveAHat</itunes:name>
-      <itunes:email>dj@lynxpebbles.me</itunes:email>
-    </itunes:owner>
-    <itunes:summary>Bringing you DJ sets across the entire spectrum of EDM</itunes:summary>
-    <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://dj.lynxpebbles.me/avatar.png" />
-    <itunes:category text="Music" />
+	<atom:link href="http://dj.lynxpebbles.me/genres/index.xml" rel="self" type="application/rss+xml" />
     
     
-      <item>
-        <title>Gabber</title>
-        <link>http://dj.lynxpebbles.me/genres/gabber/</link>
-        <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/gabber/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Gabber</title>
+      <link>http://dj.lynxpebbles.me/genres/gabber/</link>
+      <pubDate>Sat, 14 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/gabber/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Handsup</title>
-        <link>http://dj.lynxpebbles.me/genres/handsup/</link>
-        <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/handsup/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Handsup</title>
+      <link>http://dj.lynxpebbles.me/genres/handsup/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/handsup/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Hardstyle</title>
-        <link>http://dj.lynxpebbles.me/genres/hardstyle/</link>
-        <pubDate>Sat, 30 Dec 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/hardstyle/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Hardstyle</title>
+      <link>http://dj.lynxpebbles.me/genres/hardstyle/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/hardstyle/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Hardstyle Euphoric</title>
-        <link>http://dj.lynxpebbles.me/genres/hardstyle-euphoric/</link>
-        <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/hardstyle-euphoric/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Hardstyle Euphoric</title>
+      <link>http://dj.lynxpebbles.me/genres/hardstyle-euphoric/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/hardstyle-euphoric/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Hardstyle Raw</title>
-        <link>http://dj.lynxpebbles.me/genres/hardstyle-raw/</link>
-        <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/hardstyle-raw/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Hardstyle Raw</title>
+      <link>http://dj.lynxpebbles.me/genres/hardstyle-raw/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/hardstyle-raw/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>House</title>
-        <link>http://dj.lynxpebbles.me/genres/house/</link>
-        <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/house/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>House</title>
+      <link>http://dj.lynxpebbles.me/genres/house/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/house/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Trance</title>
-        <link>http://dj.lynxpebbles.me/genres/trance/</link>
-        <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/trance/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Trance</title>
+      <link>http://dj.lynxpebbles.me/genres/trance/</link>
+      <pubDate>Sat, 18 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/trance/</guid>
+      <description></description>
+    </item>
     
-      <item>
-        <title>Uk Hardcore</title>
-        <link>http://dj.lynxpebbles.me/genres/uk-hardcore/</link>
-        <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
-        
-        <guid>http://dj.lynxpebbles.me/genres/uk-hardcore/</guid>
-        <description>&lt;![CDATA[]]></description>
-        <enclosure url="" type="audio/mp3" length="" />
-        
-      </item>
+    <item>
+      <title>Uk Hardcore</title>
+      <link>http://dj.lynxpebbles.me/genres/uk-hardcore/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://dj.lynxpebbles.me/genres/uk-hardcore/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
